@@ -1,5 +1,5 @@
 package com.javademo.NoSolid;
-
+//Violates SRP; DIP
 public class Student {
     public String name;
     public String rollNo;

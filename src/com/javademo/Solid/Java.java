@@ -1,5 +1,5 @@
 package com.javademo.Solid;
-
+//follows DIP
 public class Java implements Studies, Book {
     @Override
     public void learn() {

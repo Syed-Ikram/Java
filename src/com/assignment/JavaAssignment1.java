@@ -10,6 +10,7 @@ public class JavaAssignment1 {
         File filesList[] = dirPath.listFiles();
         boolean flag = false;
         for(File file : filesList) {
+            //System.out.println(file.getName());
             if(file.isFile()) {
                 flag = checkFileName(file,findFile);
                 if(flag == true){

@@ -1,5 +1,5 @@
 package com.javademo.NoSolid;
-//OCP
+//Violates OCP
 public class Sports {
     public void playBasketball(){
         System.out.println("shoot a three pointer");

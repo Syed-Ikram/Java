@@ -1,5 +1,5 @@
 package com.javademo.NoSolid;
-
+//Violates ISP
 public interface Topics {
     public void bookPython();
     public void learnPython();

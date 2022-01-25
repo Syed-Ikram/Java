@@ -1,5 +1,5 @@
 package com.javademo.NoSolid;
-
+// violates LSP
 public class Game1 {
     public void play(){
         System.out.println("playing");

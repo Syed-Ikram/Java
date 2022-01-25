@@ -1,5 +1,5 @@
 package com.javademo.Solid;
-
+//follows SRP
 public class StudentDetails {
     public String name;
     public String rollNo;

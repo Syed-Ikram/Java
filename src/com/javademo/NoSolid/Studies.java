@@ -1,5 +1,5 @@
 package com.javademo.NoSolid;
-
+//Violates DIP
 public class Studies implements Topics{
     @Override
     public void learnJava() {
