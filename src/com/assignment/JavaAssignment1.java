@@ -39,6 +39,5 @@ public class JavaAssignment1 {
             System.out.println("file found !");
         else
             System.out.println("file not found !");
-
     }
 }

@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daaaa54-5df6-4e45-bf53-00a8cfbb21d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javademo/filesio/Proj8_files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javademo/filesio/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Game1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Game1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/OutdoorGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/OutdoorGame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Sports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Sports.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Studies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Studies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Topics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Topics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/VideoGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/VideoGame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Basketball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Basketball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Batminton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Batminton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Cricket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/OutdoorGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/OutdoorGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Percentage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Percentage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Purchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Python.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Sport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Sport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/StudentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/StudentActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/StudentDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Studies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Studies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Teach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Teach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/VideoGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +38,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.JavaAssignment1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\syedk\Desktop\internship" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Proj8_files">
     <configuration name="JavaAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment1" />
       <module name="internship" />
@@ -113,20 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NamingConventions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NamingConventions" />
+    <configuration name="Proj8_files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javademo.filesio.Proj8_files" />
       <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javademo.filesio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Proj8_files" />
         <item itemvalue="Application.JavaAssignment1" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.NamingConventions (1)" />
-        <item itemvalue="Application.NamingConventions" />
       </list>
     </recent_temporary>
   </component>
