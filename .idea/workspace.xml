@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daaaa54-5df6-4e45-bf53-00a8cfbb21d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javademo/filesio/Proj8_files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javademo/filesio/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +41,9 @@
       <recent name="C:\Users\syedk\Desktop\internship" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Proj8_files">
-    <configuration name="JavaAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment1" />
+  <component name="RunManager" selected="Application.JavaAssignment4">
+    <configuration name="JavaAssignment11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment11" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
@@ -57,34 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javademo.NoSolid.Main" />
-      <module name="internship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javademo.NoSolid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javademo.Solid.Main2" />
-      <module name="internship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javademo.Solid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NamingConventions (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.NamingConventions" />
+    <configuration name="JavaAssignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment2" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +68,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proj8_files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javademo.filesio.Proj8_files" />
+    <configuration name="JavaAssignment3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment3" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javademo.filesio.*" />
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAssignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment4" />
+      <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.main.MainClass" />
+      <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Proj8_files" />
-        <item itemvalue="Application.JavaAssignment1" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NamingConventions (1)" />
+        <item itemvalue="Application.JavaAssignment4" />
+        <item itemvalue="Application.JavaAssignment3" />
+        <item itemvalue="Application.JavaAssignment11" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.JavaAssignment2" />
       </list>
     </recent_temporary>
   </component>
@@ -129,5 +127,17 @@
       <updated>1642509901160</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

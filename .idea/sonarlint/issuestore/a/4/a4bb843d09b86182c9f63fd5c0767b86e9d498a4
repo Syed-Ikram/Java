@@ -1,0 +1,18 @@
+
+E
+java:S1197
+"*Move the array designators [] to the type.(¤¥‡½üÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÂÿÊ8åÄÐƒé/
+=
+java:S1125"'Remove the unnecessary boolean literal.(«¸þ•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÔè²
+V	java:S125"<This block of commented-out lines of code should be removed.(²÷¤èûÿÿÿÿ
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ8ÞÝ†é/
+E
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ
+\
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(•‰¤÷úÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ªµ®ü
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(£èš™
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(£õì€ùÿÿÿÿ8¿¯Éƒé/
