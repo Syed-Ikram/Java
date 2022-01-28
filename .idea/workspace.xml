@@ -4,6 +4,8 @@
     <list default="true" id="9daaaa54-5df6-4e45-bf53-00a8cfbb21d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,35 +43,22 @@
       <recent name="C:\Users\syedk\Desktop\internship" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaAssignment4">
+  <component name="RunManager" selected="Application.JavaAssignment8">
+    <configuration name="JavaAssignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment10" />
+      <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaAssignment11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment11" />
-      <module name="internship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaAssignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment2" />
-      <module name="internship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaAssignment3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment3" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.main.MainClass" />
+    <configuration name="JavaAssignment8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment8" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignment.main.*" />
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAssignment9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment9" />
+      <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaAssignment4" />
-        <item itemvalue="Application.JavaAssignment3" />
+        <item itemvalue="Application.JavaAssignment8" />
+        <item itemvalue="Application.JavaAssignment10" />
+        <item itemvalue="Application.JavaAssignment9" />
         <item itemvalue="Application.JavaAssignment11" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.JavaAssignment2" />
+        <item itemvalue="Application.JavaAssignment4" />
       </list>
     </recent_temporary>
   </component>

@@ -27,7 +27,7 @@ public class JavaAssignment4 {
     public static void main(String[] args){
         Scanner keyboard = new Scanner(System.in);
         int numberInputs = keyboard.nextInt();
-        for(int i = 0;i < numberInputs;i++) {
+        for(int i = 0;i < numberInputs;i++){
             String signUpDate, currentDate;
             signUpDate = keyboard.next();
             currentDate = keyboard.next();

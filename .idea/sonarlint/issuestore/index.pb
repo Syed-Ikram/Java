@@ -55,3 +55,13 @@ A
 rectangleData.txt,8\a\8a44e9337e44b1a7772637a9290c6c483c48daab
 W
 'src/com/assignment/JavaAssignment1.java,a\4\a4bb843d09b86182c9f63fd5c0767b86e9d498a4
+Q
+!src/com/assignment/data/Data.java,a\d\ad33e03630f9d3096d8ed0404159fc18de0d3989
+V
+&src/com/assignment/main/MainClass.java,7\2\72c96839c0d84351d747a56ea3d476f2b88e506a
+[
++src/com/assignment/singleton/Singleton.java,6\0\60e06ccc3acec45eec4b3712b934220a35db383f
+W
+'src/com/assignment/JavaAssignment3.java,8\f\8f47fb0773bed437633dbae8a53f30c90eceb008
+W
+'src/com/assignment/JavaAssignment2.java,7\4\743d4dab9cf55a798b52a940b8d0cc473a5d061d
