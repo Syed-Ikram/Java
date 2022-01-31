@@ -57,6 +57,7 @@ class SListIterator<T>{
 }
 class SList {
     Node head ;
+    SListIterator iterator;
     public static class Node<T>{
         T data;
         Node next;
@@ -66,8 +67,9 @@ class SList {
         }
     }
     public SListIterator iteratorS(){
-        SListIterator s = new SListIterator(this.head);
-        return s;
+        if(iterator == null)
+            iterator= new SListIterator(this.head);
+        return iterator;
     }
 }
 
@@ -89,6 +91,5 @@ public class JavaAssignment10{
         iter.printList();
         iter = myList.iteratorS();
         iter.printList();
-
     }
 }
