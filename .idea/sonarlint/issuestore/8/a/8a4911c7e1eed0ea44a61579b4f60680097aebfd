@@ -1,0 +1,12 @@
+
+E
+java:S2200"/Only the sign of the result should be examined.(¤¬áÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¶¹©
+E
+java:S2200"/Only the sign of the result should be examined.(ñåÓ÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ì¾¯øÿÿÿÿ
+>
+java:S1659")Declare "currentDate" on a separate line.(íˆœI
+Q	java:S125%"<This block of commented-out lines of code should be removed.(î…İÈ
+^
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(úğõùøÿÿÿÿ

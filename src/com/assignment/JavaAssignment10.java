@@ -2,69 +2,93 @@ package com.assignment;
 
 import java.util.*;
 import java.io.*;
-class SList<T>{
-    T val;
-    SList<T> next;
+class SListIterator<T>{
+    public SList.Node head;
+    SListIterator(SList.Node head){
+        this.head = head;
+    }
+    public void insert(T data){
+        SList.Node<T> new_node =  new SList.Node<>(data);
+        new_node.next = null;
 
-    public IteratorSList<T> listIterator(){
-        IteratorSList<T> t = new IteratorSList<T>();
-        return t;
+        if (head == null) {
+            head = new_node;
+        }
+        else {
+            SList.Node last = head;
+            while (last.next != null) {
+                last = last.next;
+            }
+
+            last.next = new_node;
+        }
+    }
+    public void deleteByKey(T key)
+    {
+        SList.Node currNode = head, prev = null;
+
+        if (currNode != null && currNode.data == key) {
+            head = currNode.next;
+            System.out.println(key + " found and deleted");
+        }
+        while (currNode != null && currNode.data != key) {
+            prev = currNode;
+            currNode = currNode.next;
+        }
+        if (currNode != null) {
+           prev.next = currNode.next;
+           System.out.println(key + " found and deleted");
+        }
+        if (currNode == null) {
+            System.out.println(key + " not found");
+        }
+    }
+    public void printList()
+    {
+        SList.Node currNode = head;
+
+        System.out.print("LinkedList: ");
+        while (currNode != null) {
+            System.out.print(currNode.data + " ");
+            currNode = currNode.next;
+        }
+        System.out.println();
     }
 }
-
-class IteratorSList<T>{
-    public SList<T> temp;
-    //public SList<T> head;
-
-    IteratorSList(){
-        this.temp = new SList<T>();
-    }
-
-    public boolean hasNext(){
-        if(temp == null) return false;
-        if(temp.next == null) return false;
-        else return true;
-    }
-
-    public void add(T a){
-        SList<T> x = new SList<T>();
-        x.next = temp;
-        x.val = a;
-        temp = x;
-    }
-
-    public void remove(T a){
-        if(temp == null) System.out.println("UnderFlow");
-        else temp = temp.next;
-    }
-
-    public T next(){
-        if(temp == null) return null;
-        else {
-            T i = temp.val;
-            temp = temp.next;
-            return i;
+class SList {
+    Node head ;
+    public static class Node<T>{
+        T data;
+        Node next;
+        Node(T data){
+            this.data = data;
+            next = null;
         }
+    }
+    public SListIterator iteratorS(){
+        SListIterator s = new SListIterator(this.head);
+        return s;
     }
 }
 
 public class JavaAssignment10{
     public static void main(String args[]){
-        SList<String> mylist = new SList<>();
-        IteratorSList<String> myIter = mylist.listIterator();
-        myIter.add("ikram");
-        myIter.add("ikram1");
-        myIter.add("ikram2");
-        myIter = mylist.listIterator();
-        myIter.add("ikramuddin");
-        myIter.remove("ikramuddin");
-        myIter.add("ikramuddin1");
-        myIter.add("ikramuddin2");
-        while(myIter.hasNext()){
-            System.out.println(myIter.next());
-        }
-        while(myIter.hasNext()){
-            System.out.println(myIter.next());
-        }
+        SList myList = new SList();
+        SListIterator iter = myList.iteratorS();
+        iter.insert("hello");
+        iter.insert("world");
+        iter.insert("java");
+        iter.insert("is");
+        iter.insert("fun");
+        iter.printList();
+        SList myList2 = new SList();
+        iter = myList2.iteratorS();
+        iter.insert(1);
+        iter.insert(2);
+        iter.insert(3);
+        iter.printList();
+        iter = myList.iteratorS();
+        iter.printList();
+
     }
 }

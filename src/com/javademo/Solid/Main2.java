@@ -1,7 +1,10 @@
 package com.javademo.Solid;
 
+import java.util.Scanner;
+
 public class Main2 {
     public static void main(String[] args){
+        Scanner keyboard = new Scanner(System.in);
         //1
         StudentDetails student = new StudentDetails("Ikram","017");
         student.printDetails();
@@ -21,7 +24,10 @@ public class Main2 {
         baller.wearShoes();
         //4 & 5
         StudentActivity ikram = new StudentActivity();
-        ikram.studyTopic(new Python());
-        ikram.readBook(new Java());
+        String str;
+        System.out.println("enter subject you want study (java or python)");
+        str = keyboard.next();
+        ikram.studyTopic(str);
+        ikram.readBook(str);
     }
 }

@@ -1,8 +1,5 @@
 package com.assignment;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+
 import java.lang.*;
 class Exception1  extends Exception{
     public Exception1 (String str){

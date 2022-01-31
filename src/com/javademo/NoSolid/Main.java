@@ -12,12 +12,12 @@ public class Main {
         sport.playBasketball();
         sport.playBadminton();
         //3
-        VideoGame1 pubg = new VideoGame1();
+        Valorant pubg = new Valorant();
         pubg.play();
         pubg.playOnPC();
         pubg.useJoystick();
         pubg.wearShoes();
-        OutdoorGame1 football = new OutdoorGame1();
+        Basketball football = new Basketball();
         football.wearShoes();
         football.play();
         football.useMouse();

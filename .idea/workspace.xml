@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daaaa54-5df6-4e45-bf53-00a8cfbb21d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/000767ba85175ee951d99f4b51c031d181f83b24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02b1c172eef4624e52e69281465424bc83e9471b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/114211c636d538fa9c7dd7085c6a799e8fdd6144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/116c660fa6715ff569e61e4bceb6acf44ff7d2e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/176e6ef55607ba2564a5c7d25358e93a283df046" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22eac7c91afd07a78b5101e758854639f535fc68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fc31862b943904ff36fdce62411b1dadaff8557" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c10136b43b6b45cfe32d15e782d9b8d5ee00db7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e1c414afd547d7c26bcc693de3978abeff8eafb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/498ed458d93e53db7c058c66389e146625762d3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7245125fbeafc574494ed7feadf823faf292a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61ed3d5bba84087cb3c5399dc234239a9cad0f48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69683cf847a92c79ee4f0bb69d3b0f0030e47a07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/728785cde485effc63b98e1938f1c2bed256065a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fa9591befbdbe8af307baef3ba516f1ff4fd4ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d20b2705a845bd658776f0d182b3154fcc45272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae0c4139881f3b232652bfa6c5766a559b9aac9c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c25afd34ddd75cfde8b194015754a6d1b5f40aa4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e668df298afd3deda36eb8c5456e4ad26811230d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/Exception3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/IteratorSList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/SList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/SList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/OutdoorGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Basketball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/NoSolid/VideoGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/NoSolid/Valorant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/Solid/StudentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/Solid/StudentActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +53,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="23s5Lqb341vVpPAvfqpSVtfcG7J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +82,20 @@
       <recent name="C:\Users\syedk\Desktop\internship" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaAssignment8">
+  <component name="RunManager" selected="Application.JavaAssignment7">
+    <configuration name="JavaAssigment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssigment6" />
+      <module name="internship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaAssignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment10" />
       <module name="internship" />
@@ -57,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaAssignment11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment11" />
+    <configuration name="JavaAssignment7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment7" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaAssignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment4" />
+    <configuration name="LambdasDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javademo.java8.LambdasDemo" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
+          <option name="PATTERN" value="com.javademo.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaAssignment8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment8" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javademo.Solid.Main2" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaAssignment9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment9" />
-      <module name="internship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
+          <option name="PATTERN" value="com.javademo.Solid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaAssignment8" />
+        <item itemvalue="Application.JavaAssignment7" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.LambdasDemo" />
         <item itemvalue="Application.JavaAssignment10" />
-        <item itemvalue="Application.JavaAssignment9" />
-        <item itemvalue="Application.JavaAssignment11" />
-        <item itemvalue="Application.JavaAssignment4" />
+        <item itemvalue="Application.JavaAssigment6" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,13 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¾üí¶ýÿÿÿÿ
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ýóþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«á·Í
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜“ÿì
+_
+java:S2095
+"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(á²òÞ
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(„ïÕÇ

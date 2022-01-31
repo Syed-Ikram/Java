@@ -1,0 +1,14 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ËñÈí
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ËñÈí
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(›õİ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(õ†›ìûÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(àı»‹
+M	java:S106="9Replace this use of System.out or System.err by a logger.(Ñ—…%
+†
+java:S1319"kThe type of "rectangleAL" should be an interface such as "List" rather than the implementation "ArrayList".(‘¿¹—ÿÿÿÿÿ
+€
+java:S1319&"kThe type of "rectangleAL" should be an interface such as "List" rather than the implementation "ArrayList".(Ï Ä#
+†
+java:S13198"kThe type of "rectangleAL" should be an interface such as "List" rather than the implementation "ArrayList".(û˜Üÿùÿÿÿÿ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿©Å½

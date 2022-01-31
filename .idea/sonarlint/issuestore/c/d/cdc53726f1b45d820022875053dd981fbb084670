@@ -1,0 +1,6 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8‚ÿÚùé/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À¼ëî8‚ÿÚùé/
+g
+java:S2095
+"EUse try-with-resources or close this "Scanner" in a "finally" clause.(âèÀïûÿÿÿÿ8úÿÚùé/
