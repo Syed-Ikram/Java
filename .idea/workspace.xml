@@ -3,10 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="9daaaa54-5df6-4e45-bf53-00a8cfbb21d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssigment6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssigment6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/JavaAssignment10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/SList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/SList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/SList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/SList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/One.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/One.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/assignment/Two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/internship/com/assignment/Two.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/javademo/java8/LambdasDemo$FuncInter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/javademo/java8/LambdasDemo$FuncInter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internship/com/javademo/java8/LambdasDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssigment6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssigment6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/assignment/JavaAssignment10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/JavaAssignment10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javademo/java8/LambdasDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javademo/streamapiAndlambdas/LambdasDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +58,7 @@
       <recent name="C:\Users\syedk\Desktop\internship" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaAssignment10">
+  <component name="RunManager" selected="Application.JavaAssigment6">
     <configuration name="JavaAssigment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssigment6" />
       <module name="internship" />
@@ -79,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaAssignment7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment7" />
+    <configuration name="JavaAssignment12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment12" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdasDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javademo.java8.LambdasDemo" />
+    <configuration name="JavaAssignment7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.JavaAssignment7" />
       <module name="internship" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javademo.java8.*" />
+          <option name="PATTERN" value="com.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaAssigment6" />
+        <item itemvalue="Application.JavaAssignment12" />
         <item itemvalue="Application.JavaAssignment10" />
         <item itemvalue="Application.JavaAssignment7" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.LambdasDemo" />
-        <item itemvalue="Application.JavaAssigment6" />
       </list>
     </recent_temporary>
   </component>

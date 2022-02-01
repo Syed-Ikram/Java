@@ -1,4 +1,4 @@
-package com.javademo.java8;
+package com.javademo.streamapiAndlambdas;
 
 public class LambdasDemo{
     interface FuncInter1{

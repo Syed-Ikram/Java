@@ -90,6 +90,13 @@ public class JavaAssignment10{
         iter.insert(3);
         iter.printList();
         iter = myList.iteratorS();
+        iter.insert("and");
+        iter.insert("cool");
+        iter.deleteByKey("world");
+        iter.printList();
+        iter = myList2.iteratorS();
+        iter.insert(4);
+        iter.insert(5);
         iter.printList();
     }
 }
