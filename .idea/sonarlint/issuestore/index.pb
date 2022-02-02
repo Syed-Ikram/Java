@@ -85,3 +85,11 @@ Q
 +src/com/javademo/Solid/StudentActivity.java,1\1\114211c636d538fa9c7dd7085c6a799e8fdd6144
 X
 (src/com/assignment/JavaAssignment10.java,c\c\cc8f36b446ffa654818f4282d446fe2413cfd0ea
+e
+5src/com/javademo/streamapiAndlambdas/LambdasDemo.java,5\c\5ccda5661e64405a30fcdc57804284c1aeca995a
+W
+'src/com/assignment/JavaAssignment7.java,5\3\53bfc18632ba43710a3488117e405db27b2000e8
+V
+&src/com/assignment/JavaAssigment6.java,e\5\e59a194c501a1bdb81dbd5186a1f4875e679f0d5
+X
+(src/com/assignment/JavaAssignment12.java,4\1\41a671b12e8279c71d66d03811a66fbaa374f988

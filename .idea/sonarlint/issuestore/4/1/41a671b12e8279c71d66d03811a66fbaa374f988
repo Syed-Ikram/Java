@@ -1,0 +1,49 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.( İÜ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡›ßìÿÿÿÿÿ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(¸ØïU
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ù•ŒÚùÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(Åˆ¨ûÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ºÙ„½
+X
+java:S1612M"BReplace this lambda with method reference 'Student::printDetails'.(ĞÀ“
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(×Ë D
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(´ğ«şÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(àÓ¨¨
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÎÒ°¬øÿÿÿÿ
+A
+java:S1481Z"&Remove this unused "s" local variable.(œé·àşÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ĞëšÏ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(²Õ·Àøÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(¹ï
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(•îçÔşÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ıí“êıÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ÇÄæ•
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ñÅÂµ
+l
+java:S11921"QDefine a constant instead of duplicating this literal "Computer Science" 7 times.(ÿÃ“Ùıÿÿÿÿ
+b
+java:S11921"GDefine a constant instead of duplicating this literal "Female" 6 times.(ÿÃ“Ùıÿÿÿÿ
+f
+java:S11923"KDefine a constant instead of duplicating this literal "Electronic" 4 times.(ËÕæøÿÿÿÿ
+i
+java:S1104	"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+f
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+m
+java:S1104"RMake gender a static final constant or non-public and provide accessors if needed.(×¾“æùÿÿÿÿ
+o
+java:S1104"YMake engDepartment a static final constant or non-public and provide accessors if needed.(ù…’Ñ
+r
+java:S1104"\Make yearOfEnrollment a static final constant or non-public and provide accessors if needed.(Ì‡íñ
+m
+java:S1104"WMake perTillDate a static final constant or non-public and provide accessors if needed.(ÙŠ¡¨
+d
+java:S3655\"NCall "result3.isPresent()" or "!result3.isEmpty()" before accessing the value.( ôÔ¸
+d
+java:S3655j"NCall "result6.isPresent()" or "!result6.isEmpty()" before accessing the value.(ø‘˜¯

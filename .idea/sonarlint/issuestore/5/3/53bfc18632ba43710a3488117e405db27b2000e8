@@ -1,0 +1,33 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áÈ•Ïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ”é¯ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÌÜ¬øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÇŽ÷ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬Éò©øÿÿÿÿ
+O
+java:S1161"":Add the "@Override" annotation above this method signature(¨¤”s
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Êû¬áûÿÿÿÿ
+O
+java:S1161'":Add the "@Override" annotation above this method signature(¨¤”s
+S	java:S106("9Replace this use of System.out or System.err by a logger.(À¤Û¹þÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(æ¢—ø
+Q	java:S1256"<This block of commented-out lines of code should be removed.(çøÞº
+V	java:S125:"<This block of commented-out lines of code should be removed.(Û‡•±ÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Àˆí–
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(‘±¾ß
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(»ˆ¾šøÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ï÷òê
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Õ’ö³ùÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(Á”ËÐøÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÃãÕ®
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(á×¬ý
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ì†Úê
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¨¦‡íþÿÿÿÿ
+\
+java:S1854µ"@Remove this useless assignment to local variable "innnerClass2".(Ž°«ÿÿÿÿÿ
+[
+java:S1854´"?Remove this useless assignment to local variable "innerClass1".(ã’Î‡ùÿÿÿÿ
+L
+java:S1481´"0Remove this unused "innerClass1" local variable.(ã’Î‡ùÿÿÿÿ
+M
+java:S1481µ"1Remove this unused "innnerClass2" local variable.(Ž°«ÿÿÿÿÿ
