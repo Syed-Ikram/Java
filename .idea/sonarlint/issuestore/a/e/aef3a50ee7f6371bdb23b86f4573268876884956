@@ -1,0 +1,9 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ø‚Ãıùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÆÓáÑÿÿÿÿÿ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ç£±üé/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(–•§8È¢²üé/
