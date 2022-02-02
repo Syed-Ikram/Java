@@ -65,39 +65,49 @@ public class JavaAssignment12 {
         studentArray.add(new Student(277, "Anuj Chettiar", 18, "Male", "Computer Science", 2017, 57.5));
 
         //1
+        System.out.println("1");
         Set<String> listOfEngDepartment = studentArray.stream().map(e -> e.engDepartment).collect(Collectors.toSet());
         System.out.println(listOfEngDepartment);
         //2
+        System.out.println("2");
         List<String> studentOf2018 = studentArray.stream().filter(n ->n.yearOfEnrollment==2018).map(m ->m.name).collect(Collectors.toList());
         System.out.println(studentOf2018);
         //3
-        studentArray.stream().filter(n -> n.engDepartment=="Computer Science" && n.gender=="Male").map(m->m).forEach(y -> y.printDetails());
+        System.out.println("3");
+        studentArray.stream().filter(n -> n.engDepartment.equals("Computer Science") && n.gender.equals("Male")).map(m->m).forEach(y -> y.printDetails());
         //4
+        System.out.println("4");
         Map<String, Long> result
                 = studentArray.stream().collect(Collectors.groupingBy(p -> p.gender,Collectors.counting()));
         System.out.println(result);
         //5
+        System.out.println("5");
         Map<String, Double> result2
                 = studentArray.stream().collect(Collectors.groupingBy(Student::getGender,Collectors.averagingInt(Student::getAge)));
         System.out.println(result2);
         //6
+        System.out.println("6");
         Student s;
         Optional<Student> result3 = studentArray.stream().collect(maxBy(Comparator.comparing(Student::getPerTillDate)));
         result3.get().printDetails();
         //7
+        System.out.println("7");
         Map<String, Long> result4
                 = studentArray.stream().collect(Collectors.groupingBy(Student::getEngDepartment,Collectors.counting()));
         System.out.println(result4);
         //8
+        System.out.println("8");
         Map<String, Double> result5
                 = studentArray.stream().collect(Collectors.groupingBy(Student::getEngDepartment,Collectors.averagingDouble(Student::getPerTillDate)));
         System.out.println(result5);
         //9
+        System.out.println("9");
         Optional<Student> result6 = studentArray.stream().collect(minBy(Comparator.comparing(Student::getAge)));
         result6.get().printDetails();
         //10
+        System.out.println("10");
         Map<String, Long> result7
-                = studentArray.stream().filter(p -> p.engDepartment=="Computer Science").collect(Collectors.groupingBy(p -> p.gender,Collectors.counting()));
+                = studentArray.stream().filter(p -> p.engDepartment.equals("Computer Science")).collect(Collectors.groupingBy(p -> p.gender,Collectors.counting()));
         System.out.println(result7);
     }
 }
