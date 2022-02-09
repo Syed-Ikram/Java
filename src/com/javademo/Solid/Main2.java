@@ -16,10 +16,10 @@ public class Main2 {
         player1.play();
         player2.play();
         //3
-        VideoGame valorant = new VideoGame();
+        VideoGame valorant = new Valorant();
         valorant.play();
         valorant.useJoystick();
-        Basketball baller = new Basketball();
+        OutdoorGame baller = new Basketball();
         baller.play();
         baller.wearShoes();
         //4 & 5
@@ -27,7 +27,8 @@ public class Main2 {
         String str;
         System.out.println("enter subject you want study (java or python)");
         str = keyboard.next();
-        ikram.studyTopic(str);
-        ikram.readBook(str);
+        StudyFactory factory = new StudyFactory();
+        Studies study = factory.creatStudyObject(str);
+        ikram.studyTopic(study);
     }
 }

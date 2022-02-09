@@ -44,6 +44,6 @@ java:S1104"\Make yearOfEnrollment a static final constant or non-public and pr
 m
 java:S1104"WMake perTillDate a static final constant or non-public and provide accessors if needed.(ÙŠ¡¨
 d
-java:S3655\"NCall "result3.isPresent()" or "!result3.isEmpty()" before accessing the value.( ôÔ¸
-d
 java:S3655j"NCall "result6.isPresent()" or "!result6.isEmpty()" before accessing the value.(ø‘˜¯
+d
+java:S3655\"NCall "result3.isPresent()" or "!result3.isEmpty()" before accessing the value.( ôÔ¸

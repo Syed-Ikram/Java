@@ -107,7 +107,7 @@ public class JavaAssignment12 {
         //10
         System.out.println("10");
         Map<String, Long> result7
-                = studentArray.stream().filter(p -> p.engDepartment.equals("Computer Science")).collect(Collectors.groupingBy(p -> p.gender,Collectors.counting()));
+                = studentArray.stream().filter(p -> p.engDepartment.equals("Computer Science")).collect(Collectors.groupingBy(Student::getGender,Collectors.counting()));
         System.out.println(result7);
     }
 }
